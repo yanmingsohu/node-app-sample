@@ -1,0 +1,21 @@
+{
+  "name": "node-app-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yanmingsohu/node-app-sample.git"
+  },
+  "author": "jym",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "log4js": "^2.5.3",
+    "mysql": "^2.15.0"
+  }
+}
